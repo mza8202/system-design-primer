@@ -276,7 +276,7 @@
 
 以下のリンク先ページを見てどのような質問を投げかけられるか概要を頭に入れておきましょう:
 
-* [システム設計面接で成功するには？](https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
+* [システム設計面接で成功するには？](https://web.archive.org/web/20210505130322/https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 * [システム設計面接](http://www.hiredintech.com/system-design)
 * [アーキテクチャ、システム設計面接への導入](https://www.youtube.com/watch?v=ZgdS0EUmn70)
 
@@ -385,13 +385,13 @@
 
 ### ステップ 2: スケーラビリティに関する資料を読んで復習する
 
-[スケーラビリティ](http://www.lecloud.net/tagged/scalability/chrono)
+[スケーラビリティ](https://web.archive.org/web/20221030091841/http://www.lecloud.net/tagged/scalability/chrono)
 
 * ここで触れられているトピックス:
-    * [クローン](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
-    * [データベース](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
-    * [キャッシュ](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
-    * [非同期](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
+    * [クローン](https://web.archive.org/web/20220530193911/https://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
+    * [データベース](https://web.archive.org/web/20220602114024/https://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
+    * [キャッシュ](https://web.archive.org/web/20230126233752/https://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
+    * [非同期](https://web.archive.org/web/20220926171507/https://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
 
 ### 次のステップ
 
@@ -670,7 +670,7 @@ Layer 7 ロードバランサーは [アプリケーションレイヤー](#通�
 
 * [NGINX アーキテクチャ](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
 * [HAProxy アーキテクチャガイド](http://www.haproxy.org/download/1.2/doc/architecture.txt)
-* [スケーラビリティ](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
+* [スケーラビリティ](https://web.archive.org/web/20220530193911/https://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
 * [Wikipedia](https://en.wikipedia.org/wiki/Load_balancing_(computing))
 * [Layer 4 ロードバランシング](https://www.nginx.com/resources/glossary/layer-4-load-balancing/)
 * [Layer 7 ロードバランシング](https://www.nginx.com/resources/glossary/layer-7-load-balancing/)
@@ -966,7 +966,7 @@ NoSQL は **key-value store**、 **document-store**、 **wide column store**、 
 * [キーバリューデータベース](https://en.wikipedia.org/wiki/Key-value_database)
 * [キーバリューストアの欠点](http://stackoverflow.com/questions/4056093/what-are-the-disadvantages-of-using-a-key-value-table-over-nullable-columns-or)
 * [Redisアーキテクチャ](http://qnimate.com/overview-of-redis-architecture/)
-* [メムキャッシュアーキテクチャ](https://www.adayinthelifeof.nl/2011/02/06/memcache-internals/)
+* [メムキャッシュアーキテクチャ](https://adayinthelifeof.nl/2011/02/06/memcache-internals/)
 
 #### ドキュメントストア
 
@@ -1034,7 +1034,7 @@ Googleは[Bigtable](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/cha
 
 * [基本用語の説明](http://stackoverflow.com/questions/3342497/explanation-of-base-terminology)
 * [NoSQLデータベースについて調査と選択ガイド](https://medium.com/baqend-blog/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.wskogqenq)
-* [スケーラビリティ](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
+* [スケーラビリティ](https://web.archive.org/web/20220602114024/https://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
 * [NoSQLのイントロダクション](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 * [NoSQLパターン](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 
@@ -1268,7 +1268,7 @@ def set_user(user_id, values):
 * [スケーラブルなシステムデザインパターン](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
 * [スケールできるシステムを設計するためのイントロダクション](http://lethain.com/introduction-to-architecting-systems-for-scale/)
 * [スケーラビリティ、可用性、安定性、パターン](http://www.slideshare.net/jboner/scalability-availability-stability-patterns/)
-* [スケーラビリティ](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
+* [スケーラビリティ](https://web.archive.org/web/20230126233752/https://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
 * [AWS ElastiCacheのストラテジー](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/Strategies.html)
 * [Wikipedia](https://en.wikipedia.org/wiki/Cache_(computing))
 
@@ -1450,7 +1450,7 @@ RPCは振る舞いを公開することに焦点を当てています。RPCは�
 * RPCクライアントとはサービス実装により厳密に左右されることになります。
 * 新しいオペレーション、使用例があるたびに新しくAPIが定義されなければなりません。
 * RPCをデバッグするのは難しい可能性があります。
-* 既存のテクノロジーをそのまま使ってサービスを構築することはできないかもしれません。例えば、[Squid](http://www.squid-cache.org/)などのサーバーに[RPCコールが正しくキャッシュ](http://etherealbits.com/2012/12/debunking-the-myths-of-rpc-rest/) されるように追加で骨を折る必要があるかもしれません。
+* 既存のテクノロジーをそのまま使ってサービスを構築することはできないかもしれません。例えば、[Squid](http://www.squid-cache.org/)などのサーバーに[RPCコールが正しくキャッシュ](https://web.archive.org/web/20170608193645/http://etherealbits.com/2012/12/debunking-the-myths-of-rpc-rest/) されるように追加で骨を折る必要があるかもしれません。
 
 ### Representational state transfer (REST)
 
@@ -1502,7 +1502,7 @@ RESTはデータを公開することに焦点を当てています。クライ�
 * [Do you really know why you prefer REST over RPC](https://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/)
 * [When are RPC-ish approaches more appropriate than REST?](http://programmers.stackexchange.com/a/181186)
 * [REST vs JSON-RPC](http://stackoverflow.com/questions/15056878/rest-vs-json-rpc)
-* [Debunking the myths of RPC and REST](http://etherealbits.com/2012/12/debunking-the-myths-of-rpc-rest/)
+* [Debunking the myths of RPC and REST](https://web.archive.org/web/20170608193645/http://etherealbits.com/2012/12/debunking-the-myths-of-rpc-rest/)
 * [What are the drawbacks of using REST](https://www.quora.com/What-are-the-drawbacks-of-using-RESTful-APIs)
 * [Crack the system design interview](http://www.puncsky.com/blog/2016-02-13-crack-the-system-design-interview)
 * [Thrift](https://code.facebook.com/posts/1468950976659943/)
@@ -1620,7 +1620,7 @@ Notes
 | ランダムID発行システムの設計 | [blog.twitter.com](https://blog.twitter.com/2010/announcing-snowflake)<br/>[github.com](https://github.com/twitter/snowflake/) |
 | 一定のインターバル時間での上位k件を返す | [ucsb.edu](https://icmi.cs.ucsb.edu/research/tech_reports/reports/2005-23.pdf)<br/>[wpi.edu](http://davis.wpi.edu/xmdv/docs/EDBT11-diyang.pdf) |
 | 複数のデータセンターからデータを配信するサービスの設計 | [highscalability.com](http://highscalability.com/blog/2009/8/24/how-google-serves-data-from-multiple-datacenters.html) |
-| オンラインの複数プレイヤーカードゲームの設計 | [indieflashblog.com](http://www.indieflashblog.com/how-to-create-an-asynchronous-multiplayer-game.html)<br/>[buildnewgames.com](http://buildnewgames.com/real-time-multiplayer/) |
+| オンラインの複数プレイヤーカードゲームの設計 | [indieflashblog.com](https://web.archive.org/web/20180929181117/http://www.indieflashblog.com/how-to-create-an-asynchronous-multiplayer-game.html)<br/>[buildnewgames.com](http://buildnewgames.com/real-time-multiplayer/) |
 | ガーベッジコレクションシステムの設計 | [stuffwithstuff.com](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)<br/>[washington.edu](http://courses.cs.washington.edu/courses/csep521/07wi/prj/rick.pdf) |
 | システム設計例題を追加する | [Contribute](#contributing) |
 
@@ -1712,7 +1712,7 @@ Notes
 * [Facebook Engineering](https://www.facebook.com/Engineering)
 * [Flickr Code](http://code.flickr.net/)
 * [Foursquare Engineering Blog](http://engineering.foursquare.com/)
-* [GitHub Engineering Blog](http://githubengineering.com/)
+* [GitHub Engineering Blog](https://github.blog/category/engineering)
 * [Google Research Blog](http://googleresearch.blogspot.com/)
 * [Groupon Engineering Blog](https://engineering.groupon.com/)
 * [Heroku Engineering Blog](https://engineering.heroku.com/)
@@ -1732,6 +1732,7 @@ Notes
 * [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/)
 * [Slack Engineering Blog](https://slack.engineering/)
 * [Spotify Labs](https://labs.spotify.com/)
+* [Stripe Engineering Blog](https://stripe.com/blog/engineering)
 * [Twilio Engineering Blog](http://www.twilio.com/engineering)
 * [Twitter Engineering](https://engineering.twitter.com/)
 * [Uber Engineering Blog](http://eng.uber.com/)
